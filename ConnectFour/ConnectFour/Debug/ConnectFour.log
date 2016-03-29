@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  Menu.cpp
+  Grid.cpp
+c:\users\eliot smith\source\repos\connect four\connectfour\connectfour\grid.cpp(41): warning C4101: 'excpt': unreferenced local variable
+  Generating Code...
+c:\users\eliot smith\source\repos\connect four\connectfour\connectfour\grid.cpp(61): warning C4715: 'Grid::playerTurn': not all control paths return a value
+  ConnectFour.vcxproj -> C:\Users\Eliot Smith\Source\Repos\Connect Four\ConnectFour\ConnectFour\Debug\ConnectFour.exe
